@@ -1,0 +1,15 @@
+C:\Users\DenZet\Desktop\c ostriy\Example003_QuickMath\obj\Debug\net6.0\Example003_QuickMath.csproj.AssemblyReference.cache
+C:\Users\DenZet\Desktop\c ostriy\Example003_QuickMath\obj\Debug\net6.0\Example003_QuickMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenZet\Desktop\c ostriy\Example003_QuickMath\obj\Debug\net6.0\Example003_QuickMath.AssemblyInfoInputs.cache
+C:\Users\DenZet\Desktop\c ostriy\Example003_QuickMath\obj\Debug\net6.0\Example003_QuickMath.AssemblyInfo.cs
+C:\Users\DenZet\Desktop\c ostriy\Example003_QuickMath\obj\Debug\net6.0\Example003_QuickMath.csproj.CoreCompileInputs.cache
+C:\Users\DenZet\Desktop\c ostriy\Example003_QuickMath\bin\Debug\net6.0\Example003_QuickMath.exe
+C:\Users\DenZet\Desktop\c ostriy\Example003_QuickMath\bin\Debug\net6.0\Example003_QuickMath.deps.json
+C:\Users\DenZet\Desktop\c ostriy\Example003_QuickMath\bin\Debug\net6.0\Example003_QuickMath.runtimeconfig.json
+C:\Users\DenZet\Desktop\c ostriy\Example003_QuickMath\bin\Debug\net6.0\Example003_QuickMath.dll
+C:\Users\DenZet\Desktop\c ostriy\Example003_QuickMath\bin\Debug\net6.0\Example003_QuickMath.pdb
+C:\Users\DenZet\Desktop\c ostriy\Example003_QuickMath\obj\Debug\net6.0\Example003_QuickMath.dll
+C:\Users\DenZet\Desktop\c ostriy\Example003_QuickMath\obj\Debug\net6.0\refint\Example003_QuickMath.dll
+C:\Users\DenZet\Desktop\c ostriy\Example003_QuickMath\obj\Debug\net6.0\Example003_QuickMath.pdb
+C:\Users\DenZet\Desktop\c ostriy\Example003_QuickMath\obj\Debug\net6.0\Example003_QuickMath.genruntimeconfig.cache
+C:\Users\DenZet\Desktop\c ostriy\Example003_QuickMath\obj\Debug\net6.0\ref\Example003_QuickMath.dll
